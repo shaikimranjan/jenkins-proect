@@ -2,7 +2,7 @@
 
 echo -n "Enter a number: "
 read num
-
+echo "imran"
 if [[ $num -gt 10 ]]
 then
 echo "Number is greater than 10."

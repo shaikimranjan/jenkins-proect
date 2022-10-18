@@ -6,6 +6,7 @@ read n
 if [[ ( $n -eq 15 || $n -eq 45 ) ]]
 then
 echo "You won"
+echo "imran"
 
 else
 echo "You lost!"
